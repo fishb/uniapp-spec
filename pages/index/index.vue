@@ -35,7 +35,9 @@
 
 		},
 		methods: {
-
+			_Gobuy(data){
+				console.log(data)
+			}
 		}
 	}
 </script>

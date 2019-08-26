@@ -53,26 +53,31 @@ export default {
     ],
     skuList: [
         {
+			id: 1121,
             specs: '11_21',
             goods_price: 1200,
             goods_headimg: 'https://cdn.tianshic.com/uploads/2019/07/27/bea558114b16003aad3c8e0a3ec1d9b8.jpg?x-oss-process=image/auto-orient,1/interlace,1/resize,m_fixed,w_800,h_800/quality,q_90/sharpen,150/format,jpg',
             stock: 10
         },{
+			id: 1124,
             specs: '11_24',
             goods_price: 1300,
             goods_headimg: 'https://cdn.tianshic.com/uploads/2019/07/27/bea558114b16003aad3c8e0a3ec1d9b8.jpg?x-oss-process=image/auto-orient,1/interlace,1/resize,m_fixed,w_800,h_800/quality,q_90/sharpen,150/format,jpg',
             stock: 99
         },{
+			id: 1123,
             specs: '11_23',
             goods_price: 1300,
             goods_headimg: 'https://cdn.tianshic.com/uploads/2019/07/27/bea558114b16003aad3c8e0a3ec1d9b8.jpg?x-oss-process=image/auto-orient,1/interlace,1/resize,m_fixed,w_800,h_800/quality,q_90/sharpen,150/format,jpg',
             stock: -1
         },{
+			id: 1221,
             specs: '12_21',
             goods_price: 1300,
             goods_headimg: 'https://cdn.tianshic.com/uploads/2019/07/27/bea558114b16003aad3c8e0a3ec1d9b8.jpg?x-oss-process=image/auto-orient,1/interlace,1/resize,m_fixed,w_800,h_800/quality,q_90/sharpen,150/format,jpg',
             stock: 99
         },{
+			id: 1327,
             specs:'13_27',
             goods_price: 1300,
             goods_headimg: 'https://cdn.tianshic.com/uploads/2019/07/27/bea558114b16003aad3c8e0a3ec1d9b8.jpg?x-oss-process=image/auto-orient,1/interlace,1/resize,m_fixed,w_800,h_800/quality,q_90/sharpen,150/format,jpg',
